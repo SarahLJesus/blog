@@ -1,6 +1,6 @@
 .header {
-    background-color: #333;
-    color: #fff;
+    background-color: #daa700;
+    color: #000000;
     text-align: center;
     padding: 1rem;
 }
@@ -20,7 +20,7 @@
 }
 
 .footer {
-    background-color: #333;
+    background-color: #daa700;
     color: #fff;
     text-align: center;
     padding: 1rem;
